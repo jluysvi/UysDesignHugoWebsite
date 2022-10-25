@@ -1,0 +1,6 @@
+baseURL = 'https://uysdesign.co.za/'
+languageCode = 'en-us'
+title = 'UysDesign'
+theme = 'bootstrap'
+[params]
+    description = "UysDesign is a visionary marketing and design agency based in Bloemfontein, South Africa. We focus on high ROI marketing strategies and functional design."
